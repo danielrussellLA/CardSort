@@ -1,0 +1,12 @@
+{
+    "name": "CardSort",
+    "version": "1.0.0",
+    "description": "CardSort challenge where you need to make an unordered list of BoardingCards and sort them. The library you create should be extensible to show off object-oriented programming skills",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "danielrussellla",
+    "license": "ISC",
+    "dependencies": {}
+}
